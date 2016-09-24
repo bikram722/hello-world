@@ -1,3 +1,3 @@
 # hello-world
 first repository
-this my first attempt at learning to code
+this is my first attempt at learning to code
